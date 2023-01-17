@@ -46,7 +46,7 @@ function App() {
             <button onClick={onSend}>Send</button>
 
             Check here after:
-            https://goerli.etherscan.io/address/0xB7C1044A6dBd372105fb7B12738e0Dd1971eBD0D
+            <a href={'https://goerli.etherscan.io/address/0xB7C1044A6dBd372105fb7B12738e0Dd1971eBD0D'} target={'_blank'}>https://goerli.etherscan.io/address/0xB7C1044A6dBd372105fb7B12738e0Dd1971eBD0D</a>
       </header>
     </div>
   );
